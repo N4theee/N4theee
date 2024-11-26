@@ -11,6 +11,7 @@ Cognitive Class
 Oracle 
 
 [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=40BA556181594EFF05C927570002AEED7F5A2906B47C288C5393462F76F5C2AD)
+
 [Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=40BA556181594EFF05C927570002AEED13A732505524C08358D486191313E57D)
 
 
