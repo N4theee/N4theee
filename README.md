@@ -3,6 +3,7 @@
 - Education:
   Bachelor of Science in Information Technology(New Era University)
 - Certifications:
+  
 Cognitive Class, SQL and Relational Databases 101
 https://courses.cognitiveclass.ai/certificates/95c9e4e9e0954cbcb37a0ea482713b17#
   
