@@ -17,8 +17,7 @@ Oracle
 [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0BB773A2F0CA30A80731633B2DB45B580786643A91A238767A1DCACCEC0E11AA)
 
 Ask Lex Academy
-[Project Management 101: A Young Professional’s Guide](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0BB773A2F0CA30A80731633B2DB45B580786643A91A238767A1DCACCEC0E11AA)
-
+[Project Management 101: A Young Professional’s Guide](https://d3i2gqofoofx4c.cloudfront.net/web/production/uploads/gallery/certificates/ca5d9e5f-0db7-4696-8d1c-2ee83291f6e2/Engr%20Abdullah%20Galo%20Jr.png)
 - Skillsets:
   Programming
   Problem solving
