@@ -14,6 +14,7 @@ Cognitive Class
 
 [Machine Learning with Python cognitive class IBM Credly](https://www.credly.com/badges/c556eb5d-0402-48f8-83e0-69c7d4bfd613)
 
+[Prompt Engineering for Everyone](https://courses.cognitiveclass.ai/certificates/bd367f106fb74c448f16bb1462014272)
 
 Oracle 
 
