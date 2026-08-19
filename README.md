@@ -10,6 +10,9 @@ Cognitive Class
 
 [Cognitive Class, SQL and Relational Databases 101 New](https://courses.cognitiveclass.ai/certificates/1d964ee2f3924cda93a9f927625f5b21)
 
+[Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/51f3ee8576af49c3b10b70f2799fb326)
+
+
 Oracle 
 
 [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=40BA556181594EFF05C927570002AEED7F5A2906B47C288C5393462F76F5C2AD)
