@@ -7,6 +7,7 @@ Name:
 Cognitive Class 
 
 [Cognitive Class, SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/95c9e4e9e0954cbcb37a0ea482713b17#)
+[Cognitive Class, SQL and Relational Databases 101(New)]([https://courses.cognitiveclass.ai/certificates/95c9e4e9e0954cbcb37a0ea482713b17#](https://courses.cognitiveclass.ai/certificates/1d964ee2f3924cda93a9f927625f5b21))
 
 Oracle 
 
