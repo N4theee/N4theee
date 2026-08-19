@@ -10,7 +10,9 @@ Cognitive Class
 
 [Cognitive Class, SQL and Relational Databases 101 New](https://courses.cognitiveclass.ai/certificates/1d964ee2f3924cda93a9f927625f5b21)
 
-[Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/51f3ee8576af49c3b10b70f2799fb326)
+[Machine Learning with Python cognitive class](https://courses.cognitiveclass.ai/certificates/51f3ee8576af49c3b10b70f2799fb326)
+
+[Machine Learning with Python cognitive class IBM Credly](https://www.credly.com/badges/c556eb5d-0402-48f8-83e0-69c7d4bfd613)
 
 
 Oracle 
